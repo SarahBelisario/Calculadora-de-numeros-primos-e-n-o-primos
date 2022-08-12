@@ -1,0 +1,15 @@
+<html>
+  <body>
+    <script>
+      function numeroPrimo(num) {
+        let teste = 0;
+        for (let i = num; i >= 1; i--) {
+          if (num % i === 0) teste = teste + 1;
+        }
+
+        if (teste === 2) return console.log(num + ' e um numero primo');
+        console.log(num + ' nao e um numero primo');
+      }
+    </script>
+  </body>
+</html>
