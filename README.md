@@ -9,7 +9,6 @@ O usuário digita um número e a aplicação informa se ele é primo (divisível
 ## Tecnologias
 
 - HTML
-- JavaScript
 
 ## Como usar
 
