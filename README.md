@@ -1,33 +1,13 @@
-# Lista de Tarefas
+Calculadora de Números Primos
+Aplicação web simples que verifica se um número é primo ou não.
+Sobre
+O usuário digita um número e a aplicação informa se ele é primo (divisível apenas por 1 e por ele mesmo) ou não primo.
+Tecnologias
+HTML
+Como usar
+Faça o download ou clone o repositório
+Abra o arquivo index.html no navegador
+Digite um número e veja o resultado
 
-Aplicação web responsiva para gerenciar tarefas: adicionar, editar, concluir e apagar.
-
-## Sobre
-
-Qualquer pessoa com o link pode criar e gerenciar suas tarefas. A interface é responsiva, funcionando bem em diferentes tamanhos de tela.
-
-## Funcionalidades
-
-- Adicionar tarefas
-- Marcar tarefas como concluídas
-- Editar tarefas
-- Apagar tarefas
-- Layout responsivo
-
-## Tecnologias
-
-- HTML
-- CSS
-- JavaScript
-
-## Como usar
-
-1. Faça o download ou clone o repositório
-2. Abra o arquivo `index.html` no navegador
-3. Comece a adicionar suas tarefas
-
-## O que aprendi
-
-- CRUD completo (criar, ler, editar e apagar)
-- Construção de layout responsivo
-- Manipulação dinâmica de elementos na página
+Observações
+Projeto antigo, sem layout. Mantido no perfil como registro da minha evolução nos estudos.
